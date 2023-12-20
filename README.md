@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-I'm Ayush, a passionate Software Engineer & Programmer who loves to code 👨🏻‍💻.
+I'm Ayush, a passionate **Software Engineer & Programmer** who loves to code from **India**👨🏻‍💻.
 
-## 🔧 Skills
+## 🚀 Skills
 - Languages: Java, C++, Python
 - Tools: VS Code, GitHub, Android Studio, MySQL
 - Familiar with Frontend Web and Android Development
@@ -37,4 +37,5 @@ I'm Ayush, a passionate Software Engineer & Programmer who loves to code 👨�
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyusH1912&theme=dark)](https://git.io/streak-stats)
 
 <!--⚡ Fun fact: [Fun Fact about Yourself]
+**HAPPY CODING!🙂**
 
