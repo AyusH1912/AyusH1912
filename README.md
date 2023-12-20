@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
+# Hi, there 👋
 
 I'm Ayush, a passionate **Software Engineer & Programmer** who loves to code from **India**👨🏻‍💻.
 
@@ -23,7 +23,7 @@ I'm Ayush, a passionate **Software Engineer & Programmer** who loves to code fro
 - Familiar with Frontend Web and Android Development
 
 ## 📫 Let's Connect
-- LinkedIn: http://linkedin.com/in/ayush19-
+- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ayush19-/)
 - Twitter: https://twitter.com/iamayush_7
 
 <!--## 🚀 Projects
@@ -33,9 +33,12 @@ I'm Ayush, a passionate **Software Engineer & Programmer** who loves to code fro
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyusH1912&show_icons=true&theme=radical)
 
-## GitHub Streak
+## 💻 GitHub Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyusH1912&theme=dark)](https://git.io/streak-stats)
 
-<!--⚡ Fun fact: [Fun Fact about Yourself]
+<!--⚡ Fun fact: [Fun Fact about Yourself]-->
 **HAPPY CODING!🙂**
 
