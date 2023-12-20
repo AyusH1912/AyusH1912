@@ -15,23 +15,26 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-I'm Ayush, a passionate Software Engineer who loves to code.
+I'm Ayush, a passionate Software Engineer & Programmer who loves to code 👨🏻‍💻.
 
 ## 🔧 Skills
 - Languages: Java, C++, Python
-- Frameworks: [Frameworks]
-- Tools: [Tools]
-
-## 🚀 Projects
-1. [Project 1](link-to-project1) - Short description.
-2. [Project 2](link-to-project2) - Short description.
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyusH1912&show_icons=true&theme=radical)
+- Tools: VS Code, GitHub, Android Studio, MySQL
+- Familiar with Frontend Web and Android Development
 
 ## 📫 Let's Connect
 - LinkedIn: http://linkedin.com/in/ayush19-
 - Twitter: https://twitter.com/iamayush_7
 
-⚡ Fun fact: [Fun Fact about Yourself]
+<!--## 🚀 Projects
+1. [Project 1](link-to-project1) - Short description.
+2. [Project 2](link-to-project2) - Short description.-->
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyusH1912&show_icons=true&theme=radical)
+
+## GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyusH1912&theme=dark)](https://git.io/streak-stats)
+
+<!--⚡ Fun fact: [Fun Fact about Yourself]
 
