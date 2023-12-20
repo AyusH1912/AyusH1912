@@ -27,11 +27,11 @@ I'm Ayush, a passionate Software Engineer who loves to code.
 2. [Project 2](link-to-project2) - Short description.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyusH1912&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn](linkedin-profile-link)
-- Twitter: [Your Twitter](twitter-profile-link)
+- LinkedIn: http://linkedin.com/in/ayush19-
+- Twitter: https://twitter.com/iamayush_7
 
 ⚡ Fun fact: [Fun Fact about Yourself]
 
