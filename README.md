@@ -23,8 +23,7 @@ I'm Ayush, a passionate **Software Engineer & Programmer** who loves to code fro
 - Familiar with Frontend Web and Android Development
 
 ## 📫 Let's Connect
-- **LinkedIn** -> [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ayush19-/)
-- **Twitter** -> [![Twitter Icon](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/iamayush_7)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ayush19-/) [![Twitter Icon](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/iamayush_7)
 
 <!--## 🚀 Projects
 1. [Project 1](link-to-project1) - Short description.
