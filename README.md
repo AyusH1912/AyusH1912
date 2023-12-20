@@ -24,7 +24,7 @@ I'm Ayush, a passionate **Software Engineer & Programmer** who loves to code fro
 
 ## 📫 Let's Connect
 - [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ayush19-/)
-- Twitter: https://twitter.com/iamayush_7
+- [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iamayush_7)
 
 <!--## 🚀 Projects
 1. [Project 1](link-to-project1) - Short description.
@@ -34,7 +34,7 @@ I'm Ayush, a passionate **Software Engineer & Programmer** who loves to code fro
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyusH1912&show_icons=true&theme=radical)
 
 ## 💻 GitHub Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyusH1912&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyusH1912&theme=dark)](https://git.io/streak-stats)
