@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, there 👋
+#                              Hi, there 👋
 
 I'm Ayush, a passionate **Software Engineer & Programmer** who loves to code from **India**👨🏻‍💻.
 
